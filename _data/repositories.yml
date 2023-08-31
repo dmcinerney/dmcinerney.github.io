@@ -1,0 +1,7 @@
+github_users:
+  - dmcinerney
+
+github_repos:
+  - dmcinerney/preprocessing-ehr
+  - dmcinerney/ehr-extraction-models
+  - dmcinerney/ehr-extraction-web
